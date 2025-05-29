@@ -48,3 +48,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 👥 Try downlaod and install the app:
+
+[Open App on Expo]https://expo.dev/accounts/arvincatalbas/projects/musicapp/builds/47a38216-d3f1-48bd-9c45-fd0897cadcfe
