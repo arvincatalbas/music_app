@@ -55,3 +55,5 @@ Join our community of developers creating universal apps.
 ## 👥 Try downlaod and install the app:
 
 [Open App on Expo]https://expo.dev/accounts/arvincatalbas/projects/musicapp/builds/47a38216-d3f1-48bd-9c45-fd0897cadcfe
+
+Apk already submitted to Drive: [https://drive.google.com/drive/folders/1loCmUBMj5Sz2GxbddLYkl_o2d3F7BSGm?usp=drive_link]
